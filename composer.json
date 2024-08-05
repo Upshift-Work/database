@@ -41,7 +41,7 @@
       "Bosnadev\\DatabaseTests\\": "tests/"
     }
   },
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "scripts": {
     "test": "vendor/bin/phpunit",
     "fix": "vendor/bin/php-cs-fixer fix --config ./.php-cs-fixer.php"
